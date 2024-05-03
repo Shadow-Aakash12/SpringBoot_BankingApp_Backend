@@ -1,5 +1,3 @@
-Great! Here's the content formatted for your GitHub README file:
-
 ---
 
 ### Setting up a Spring Boot Project
