@@ -1,5 +1,3 @@
----
-
 ### Setting up a Spring Boot Project
 
 To set up a Spring Boot project, follow these steps:
